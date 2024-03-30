@@ -1,0 +1,29 @@
+[INFO] 01:36:46:115 Servidor/(5099:5099): Servidor listo para recibir al cliente
+[INFO] 00:51:50:119 Servidor/(2380:2380): Servidor listo para recibir al cliente
+[INFO] 00:52:29:715 Servidor/(2380:2380): Se conecto un cliente!
+[ERROR] 00:52:30:401 Servidor/(2380:2380): el cliente se desconecto. Terminando servidor
+[INFO] 01:08:58:027 Servidor/(2469:2469): Servidor listo para recibir al cliente
+[INFO] 01:09:30:752 Servidor/(2469:2469): Se conecto un cliente!
+[INFO] 01:09:30:757 Servidor/(2469:2469): Me llego el mensaje valor
+[ERROR] 01:09:31:294 Servidor/(2469:2469): el cliente se desconecto. Terminando servidor
+[INFO] 01:20:00:785 Servidor/(2637:2637): Servidor listo para recibir al cliente
+[INFO] 01:28:39:863 Servidor/(2637:2637): Se conecto un cliente!
+[INFO] 01:28:39:869 Servidor/(2637:2637): Me llego el mensaje valor
+[ERROR] 01:28:40:277 Servidor/(2637:2637): el cliente se desconecto. Terminando servidor
+[INFO] 01:29:47:402 Servidor/(2945:2945): Servidor listo para recibir al cliente
+[INFO] 01:30:00:227 Servidor/(2945:2945): Se conecto un cliente!
+[INFO] 01:30:00:227 Servidor/(2945:2945): Me llego el mensaje valor
+[ERROR] 01:30:00:507 Servidor/(2945:2945): el cliente se desconecto. Terminando servidor
+[INFO] 01:30:35:877 Servidor/(2971:2971): Servidor listo para recibir al cliente
+[INFO] 01:30:48:355 Servidor/(2971:2971): Se conecto un cliente!
+[INFO] 01:30:48:355 Servidor/(2971:2971): Me llego el mensaje: valor
+[ERROR] 01:30:48:824 Servidor/(2971:2971): el cliente se desconecto. Terminando servidor
+[INFO] 02:06:02:142 Servidor/(3379:3379): Servidor listo para recibir al cliente
+[INFO] 02:07:16:386 Servidor/(3379:3379): Se conecto un cliente!
+[INFO] 02:07:16:386 Servidor/(3379:3379): Me llego el mensaje: valor
+[INFO] 02:07:32:499 Servidor/(3379:3379): Me llegaron los siguientes valores:
+
+[INFO] 02:07:32:499 Servidor/(3379:3379): no puede ser
+[INFO] 02:07:32:499 Servidor/(3379:3379): esto es una locura
+[INFO] 02:07:32:499 Servidor/(3379:3379): ah
+[ERROR] 02:07:33:164 Servidor/(3379:3379): el cliente se desconecto. Terminando servidor
